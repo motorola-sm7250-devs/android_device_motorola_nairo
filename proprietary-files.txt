@@ -23,10 +23,9 @@ vendor/lib/libc++_shared.so
 vendor/lib/libmotaudioutils.so
 vendor/lib/libtinycompress_vendor.so
 
-# Audio - Soundfx
-vendor/lib/soundfx/libmaxxeffect-cembedded.so
-vendor/lib/soundfx/libmmieffectswrapper.so
-vendor/lib/soundfx/libspeakerbundle.so
+# Audio (FX modules)
+vendor/lib/soundfx/libasphere.so
+vendor/lib/soundfx/libshoebox.so
 
 # Camera
 vendor/etc/camera/aec_golden_depth.bin
